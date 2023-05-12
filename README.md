@@ -8,7 +8,7 @@
 
 - [Yves](https://github.com/yvsmlk)
 
-- [Etienne](https://github.com/liolle)
+- [Etienne](https://github.com/liolle).
 
 ### Description
 
