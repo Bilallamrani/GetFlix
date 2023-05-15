@@ -29,6 +29,9 @@ Here are some of the sources we used to help us build this project:
 - [Express](https://expressjs.com/)
 - [MySQL](https://www.mysql.com/fr/)
 
+Project Link
+You can access the website by clicking on the following link: Getflix Web Page.
+
 ### ERD
 ![](./BackEnd/img/db.png)
 
