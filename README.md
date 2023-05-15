@@ -30,12 +30,13 @@ Here are some of the sources we used to help us build this project:
 - [MySQL](https://www.mysql.com/fr/)
 
 Project Link
-You can access the website by clicking on the following link: Getflix Web Page.
+You can access the website by clicking on the following link: [Getflix Web Page](https://bilallamrani.github.io/GetFlix/).
 
-### ERD
-![](./BackEnd/img/db.png)
 
 ### Demo
 <a href="https://liolle.github.io/GetFlix/"> 
 <img src="./BackEnd/img/landingPage_v1.png" style="border-radius:10px"/>
 </a>
+
+### ERD
+![](./BackEnd/img/db.png)
